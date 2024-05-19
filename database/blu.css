@@ -1,0 +1,9 @@
+.brush {
+
+    background-color: black;
+}
+
+.object-cover object-center rounded-2px {
+
+    border-radius: 20px;
+}
